@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title">max-mebel</h1>
+      <h1 class="title">Можно начинать все работает</h1>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
